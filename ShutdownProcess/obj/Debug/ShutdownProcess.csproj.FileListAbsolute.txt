@@ -1,0 +1,9 @@
+c:\users\宗翰\documents\visual studio 2012\Projects\ShutdownProcess\ShutdownProcess\bin\Debug\ShutdownProcess.exe.config
+c:\users\宗翰\documents\visual studio 2012\Projects\ShutdownProcess\ShutdownProcess\bin\Debug\ShutdownProcess.exe
+c:\users\宗翰\documents\visual studio 2012\Projects\ShutdownProcess\ShutdownProcess\bin\Debug\ShutdownProcess.pdb
+c:\users\宗翰\documents\visual studio 2012\Projects\ShutdownProcess\ShutdownProcess\obj\Debug\ShutdownProcess.csprojResolveAssemblyReference.cache
+c:\users\宗翰\documents\visual studio 2012\Projects\ShutdownProcess\ShutdownProcess\obj\Debug\ShutdownProcess.ShutdownProcess.resources
+c:\users\宗翰\documents\visual studio 2012\Projects\ShutdownProcess\ShutdownProcess\obj\Debug\ShutdownProcess.Properties.Resources.resources
+c:\users\宗翰\documents\visual studio 2012\Projects\ShutdownProcess\ShutdownProcess\obj\Debug\ShutdownProcess.csproj.GenerateResource.Cache
+c:\users\宗翰\documents\visual studio 2012\Projects\ShutdownProcess\ShutdownProcess\obj\Debug\ShutdownProcess.exe
+c:\users\宗翰\documents\visual studio 2012\Projects\ShutdownProcess\ShutdownProcess\obj\Debug\ShutdownProcess.pdb
